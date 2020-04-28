@@ -7,3 +7,6 @@ Welcome to the Git
 3. Committing again 
 
 4. sfsdggdfg
+
+
+5. Committing diff branch
