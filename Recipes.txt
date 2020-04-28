@@ -2,3 +2,6 @@ Welcome to the Git
 
 1. Understanding the Git 
 2. Push and Pull from the Git
+
+
+3. Committing again 
